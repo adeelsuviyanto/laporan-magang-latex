@@ -1,0 +1,366 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.7.9)  23 JUL 2022 17:51
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**pengesahan.tex
+(./pengesahan.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-04-10>
+! Undefined control sequence.
+l.2 \chapter
+            *{LEMBAR PENGESAHAN} %Lembar Pengesahan sebagai Chapter
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \chapter*
+             {LEMBAR PENGESAHAN} %Lembar Pengesahan sebagai Chapter
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no * in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no N in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2--3
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \begin{center}
+                   %2 halaman pertama all pake center
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 5--5
+[] 
+ []
+
+! Undefined control sequence.
+l.6 	\large
+           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (40.97198pt too wide) in paragraph at lines 7--9
+ \OT1/cmr/bx/n/10 TUGAS 
+ []
+
+
+Overfull \hbox (39.69423pt too wide) in paragraph at lines 7--9
+ \OT1/cmr/bx/n/10 AKHIR 
+ []
+
+! Undefined control sequence.
+l.10 	\Large
+            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \JUDUL 
+                       
+l.11 	\textbf{\JUDUL}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 	\normalsize
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (27.48595pt too wide) in paragraph at lines 19--19
+ []\OT1/cmr/bx/n/10 Telah 
+ []
+
+
+Overfull \hbox (17.95267pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/10 dis- 
+ []
+
+
+Overfull \hbox (9.10413pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/10 e- 
+ []
+
+
+Overfull \hbox (14.69437pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/10 tu- 
+ []
+
+
+Overfull \hbox (13.09715pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/10 jui 
+ []
+
+
+Overfull \hbox (18.36794pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/10 dan 
+ []
+
+
+Overfull \hbox (17.95267pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/10 dis- 
+ []
+
+
+Overfull \hbox (29.38869pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/10 ahkan 
+ []
+
+
+Overfull \hbox (13.6402pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/10 se- 
+ []
+
+
+Overfull \hbox (15.8124pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/10 ba- 
+ []
+
+
+Overfull \hbox (14.53462pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/10 gai 
+ []
+
+
+Overfull \hbox (27.02763pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/10 Buku 
+ []
+
+
+Overfull \hbox (17.2638pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/10 Tu- 
+ []
+
+
+Overfull \hbox (15.87627pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/10 gas 
+ []
+
+
+Overfull \hbox (29.08319pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/10 Akhir 
+ []
+
+! Undefined control sequence.
+<argument> Program Studi \prodi 
+                                
+l.20 	\textbf{Program Studi \prodi}
+                                   \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (44.00671pt too wide) in paragraph at lines 20--20
+ []\OT1/cmr/bx/n/10 Program 
+ []
+
+
+Overfull \hbox (26.83319pt too wide) in paragraph at lines 20--20
+ \OT1/cmr/bx/n/10 Studi 
+ []
+
+! Undefined control sequence.
+<recently read> \fakultas 
+                          
+l.21 	\textbf{\fakultas}
+                        \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \universitas 
+                             
+l.22 	\textbf{\universitas}
+                           \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (40.25253pt too wide) in paragraph at lines 26--26
+ []\OT1/cmr/bx/n/10 Disusun 
+ []
+
+
+Overfull \hbox (23.7985pt too wide) in paragraph at lines 26--26
+ \OT1/cmr/bx/n/10 oleh: 
+ []
+
+! Undefined control sequence.
+<recently read> \PENULIS 
+                         
+l.27 	\textbf{\PENULIS}
+                       \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \nim 
+                     
+l.28 	\textbf{\nim}
+                   \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (48.27055pt too wide) in paragraph at lines 32--32
+ []\OT1/cmr/bx/n/10 Bandung, 
+ []
+
+
+Overfull \hbox (6.06941pt too wide) in paragraph at lines 32--32
+ \OT1/cmr/bx/n/10 x 
+ []
+
+
+Overfull \hbox (18.72212pt too wide) in paragraph at lines 32--32
+ \OT1/cmr/bx/n/10 Juli 
+ []
+
+
+Overfull \hbox (22.99988pt too wide) in paragraph at lines 32--32
+ \OT1/cmr/bx/n/10 2021 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 33.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 33.
+Missing character: There is no D in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no k in font nullfont!
+! Undefined control sequence.
+<recently read> \penulis 
+                         
+l.39 		\penulis
+               . & \pembimbungdua \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no . in font nullfont!
+! Undefined control sequence.
+l.39 		\penulis. & \pembimbungdua
+                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (341.43304pt too wide) in paragraph at lines 33--42
+ [][] 
+ []
+
+)
+! Emergency stop.
+<*> pengesahan.tex
+                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 29 strings out of 478238
+ 518 string characters out of 5850457
+ 292994 words of memory out of 5000000
+ 18367 multiletter control sequences out of 15000+600000
+ 469567 words of font info for 29 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 19i,8n,12p,121b,179s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

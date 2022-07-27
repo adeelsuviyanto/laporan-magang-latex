@@ -1,0 +1,5 @@
+\babel@toc {indonesian}{}\relax 
+\contentsline {chapter}{LEMBAR PENGESAHAN}{i}{Doc-Start}%
+\contentsline {chapter}{KATA PENGANTAR}{ii}{Doc-Start}%
+\contentsline {chapter}{DAFTAR ISI}{iii}{Doc-Start}%
+\contentsline {chapter}{DAFTAR GAMBAR}{iv}{Doc-Start}%
