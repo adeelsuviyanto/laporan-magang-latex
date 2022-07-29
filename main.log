@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.7.9)  23 JUL 2022 17:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.6.21)  28 JUL 2022 17:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -751,6 +751,58 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box60
 \@float@everytoks=\toks28
 \@floatcapt=\box61
+)
+(/usr/share/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip132
+\multirow@cntb=\count436
+\multirow@dima=\skip133
+\bigstrutjot=\dimen178
+)
+(/usr/share/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box62
+\UL@hyphenbox=\box63
+\UL@skip=\skip134
+\UL@hook=\toks29
+\UL@height=\dimen179
+\UL@pe=\count437
+\UL@pixel=\dimen180
+\ULC@box=\box64
+Package: ulem 2019/11/18
+\ULdepth=\dimen181
+)
+(/usr/share/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen182
+\lightrulewidth=\dimen183
+\cmidrulewidth=\dimen184
+\belowrulesep=\dimen185
+\belowbottomsep=\dimen186
+\aboverulesep=\dimen187
+\abovetopsep=\dimen188
+\cmidrulesep=\dimen189
+\cmidrulekern=\dimen190
+\defaultaddspace=\dimen191
+\@cmidla=\count438
+\@cmidlb=\count439
+\@aboverulesep=\dimen192
+\@belowrulesep=\dimen193
+\@thisruleclass=\count440
+\@lastruleclass=\count441
+\@thisrulewidth=\dimen194
+)
+(/usr/share/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen195
+\ar@mcellbox=\box65
+\extrarowheight=\dimen196
+\NC@list=\toks30
+\extratabsurround=\skip135
+\backup@length=\skip136
+\ar@cellbox=\box66
+)
+(/usr/share/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 ))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -763,7 +815,8 @@ Package csquotes Warning: No style for language 'indonesian'.
 Package csquotes Info: Redefining alias 'default' -> 'fallback'.
 (./main.aux (./src/cover.aux) (./src/pengesahan.aux) (./src/orisinalitas.aux)
 (./src/abstrak.aux) (./src/katapengantar.aux) (./src/daftarisi.aux)
-(./src/daftargambar.aux) (./src/daftartabel.aux))
+(./src/daftargambar.aux) (./src/daftartabel.aux) (./src/bab1.aux)
+(./src/bab2.aux) (./src/bab3.aux) (./src/bab4.aux) (./src/lampiran.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
@@ -793,17 +846,17 @@ LaTeX Font Info:    ... okay on input line 20.
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count436
-\scratchdimen=\dimen178
-\scratchbox=\box62
-\nofMPsegments=\count437
-\nofMParguments=\count438
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count439
-\MPscratchDim=\dimen179
-\MPnumerator=\count440
-\makeMPintoPDFobject=\count441
-\everyMPtoPDFconversion=\toks30
+\scratchcounter=\count442
+\scratchdimen=\dimen197
+\scratchbox=\box67
+\nofMPsegments=\count443
+\nofMParguments=\count444
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count445
+\MPscratchDim=\dimen198
+\MPnumerator=\count446
+\makeMPintoPDFobject=\count447
+\everyMPtoPDFconversion=\toks32
 ) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -824,7 +877,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count442
+\c@section@level=\count448
 )
 LaTeX Info: Redefining \ref on input line 20.
 LaTeX Info: Redefining \pageref on input line 20.
@@ -897,7 +950,7 @@ Package caption Info: End \AtBeginDocument code.
 
 
 (./src/cover.tex
-<./assets/logotelu.png, id=17, 398.142pt x 483.2235pt>
+<./assets/logotelu.png, id=116, 398.142pt x 483.2235pt>
 File: ./assets/logotelu.png Graphic file (type png)
 <use ./assets/logotelu.png>
 Package pdftex.def Info: ./assets/logotelu.png  used on input line 23.
@@ -959,16 +1012,24 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 No file ./src/orisinalitas.tex.
 \openout2 = `./src/abstrak.aux'.
 
-No file ./src/abstrak.tex.
+(./src/abstrak.tex) [2
+
+
+
+
+
+
+
+]
 \openout2 = `./src/katapengantar.aux'.
 
-(./src/katapengantar.tex) [2
+ (./src/katapengantar.tex
+Overfull \hbox (14.93478pt too wide) in paragraph at lines 6--7
+[]\OT1/ptm/m/n/12 Pada ke-sem-pat-an ini pe-nu-lis ju-ga meng-u-capk-an te-ri-m
+a ka-sih yang sebesar-besarnya
+ []
 
-
-
-
-
-
+) [3
 
 
 
@@ -980,7 +1041,7 @@ No file ./src/abstrak.tex.
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
-) [3
+) [4
 
 
 
@@ -988,12 +1049,12 @@ No file ./src/abstrak.tex.
 ]
 \openout2 = `./src/daftargambar.aux'.
 
-
-(./src/daftargambar.tex (./main.lof)
+ (./src/daftargambar.tex
+(./main.lof)
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
-) [4
+) [5
 
 
 
@@ -1003,18 +1064,608 @@ No file ./src/abstrak.tex.
 
 
 No file ./src/daftartabel.tex.
+\openout2 = `./src/bab1.aux'.
+
+(./src/bab1.tex
+Bab I.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
+2.
+(/usr/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.25 \end{enumerate}
+                     [1
+
+
+
+
+
+
+
+
+] [2]
+Overfull \hbox (1.50508pt too wide) in paragraph at lines 62--63
+[]\OT1/ptm/m/n/12 Bab
+ []
+
+) [3]
+\openout2 = `./src/bab2.aux'.
+
+ (./src/bab2.tex
+Bab II.
+<./assets/logombkm.png, id=217, 1114.1625pt x 427.5975pt>
+File: ./assets/logombkm.png Graphic file (type png)
+<use ./assets/logombkm.png>
+Package pdftex.def Info: ./assets/logombkm.png  used on input line 5.
+(pdftex.def)             Requested size: 278.53995pt x 106.89911pt.
+<./assets/logobangkit.png, id=218, 935.495pt x 527.9725pt>
+File: ./assets/logobangkit.png Graphic file (type png)
+<use ./assets/logobangkit.png>
+Package pdftex.def Info: ./assets/logobangkit.png  used on input line 17.
+(pdftex.def)             Requested size: 233.87317pt x 131.9928pt.
+[4
+
+
+
+
+ <./assets/logombkm.png> <./assets/logobangkit.png>]) [5]
+\openout2 = `./src/bab3.aux'.
+
+ (./src/bab3.tex
+Bab III.
+
+Overfull \hbox (9.55101pt too wide) in paragraph at lines 7--7
+[]|\OT1/ptm/m/n/12 Minggu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+[]|\OT1/ptm/m/n/12 Modul
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 10--10
+\OT1/ptm/m/it/12 ting (Asyn-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]|\OT1/ptm/m/n/12 Modul
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+\OT1/ptm/m/it/12 Clo-ud
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+\OT1/ptm/m/it/12 Com-pu-ting
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+\OT1/ptm/m/it/12 (Syn-chro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
+[]|\OT1/ptm/m/n/12 English
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+[]|\OT1/ptm/m/n/12 Dicoding:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+\OT1/ptm/m/n/12 Web De-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+\OT1/ptm/m/n/12 ve-lo-pment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+[]|\OT1/ptm/m/n/12 Pre-read:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+\OT1/ptm/m/n/12 Ti-me Ma-
+ []
+
+
+Overfull \vbox (53.9834pt too high) detected at line 32
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]|\OT1/ptm/m/n/12 ILT-CC
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\OT1/ptm/m/n/12 1: Web
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\OT1/ptm/m/n/12 Front-end
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]|\OT1/ptm/m/n/12 ILT-SS 1:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+\OT1/ptm/m/n/12 Ti-me Ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+[]|\OT1/ptm/m/n/12 Dicoding:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+\OT1/ptm/m/n/12 Back-End
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+[]|\OT1/ptm/m/n/12 ILT-CC-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+\OT1/ptm/m/n/12 2: Web
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+\OT1/ptm/m/n/12 Back-end
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]|\OT1/ptm/m/n/12 ILT-SS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\OT1/ptm/m/n/12 2: Pro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\OT1/ptm/m/n/12 fes-sio-nal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\OT1/ptm/m/n/12 Bran-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\OT1/ptm/m/n/12 ding and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]|\OT1/ptm/m/n/12 Google
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\OT1/ptm/m/n/12 Clo-ud
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\OT1/ptm/m/n/12 Com-pu-ting
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\OT1/ptm/m/n/12 Fo-un-da-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+[]|\OT1/ptm/m/n/12 ILT-CC
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+\OT1/ptm/m/n/12 3: In-tro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+\OT1/ptm/m/n/12 du-ction
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+\OT1/ptm/m/n/12 to Go-o-gle
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\OT1/ptm/m/n/12 ILT-SS 3:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+\OT1/ptm/m/n/12 Cri-ti-cal
+ []
+
+
+Overfull \vbox (71.97789pt too high) detected at line 62
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+[]|\OT1/ptm/m/n/12 EN 2:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+\OT1/ptm/m/n/12 Exp-res-sing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]|\OT1/ptm/m/n/12 ILT-CC
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+\OT1/ptm/m/n/12 4: Da-ta,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+\OT1/ptm/m/n/12 in Go-o-gle
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+[]|\OT1/ptm/m/n/12 ILT-SS 4:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+\OT1/ptm/m/n/12 Adap-ta-bi-li-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+[]|\OT1/ptm/m/n/12 ILT-CC
+ []
+
+
+Underfull \hbox (badness 1325) in paragraph at lines 81--81
+\OT1/ptm/m/n/12 5: Go-o-gle
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+\OT1/ptm/m/n/12 Clo-ud's
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+\OT1/ptm/m/n/12 Ope-ra-tions
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+\OT1/ptm/m/n/12 Su-i-te and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]|\OT1/ptm/m/n/12 ILT-SS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\OT1/ptm/m/n/12 5: Idea
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\OT1/ptm/m/n/12 Ge-ne-ra-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\OT1/ptm/m/n/12 and MVP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+[]|\OT1/ptm/m/n/12 Coursera:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+\OT1/ptm/m/n/12 Pre-pa-ring
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+\OT1/ptm/m/n/12 for ACE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+\OT1/ptm/m/n/12 Cer-ti-fi-ca-
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 97--97
+\OT1/ptm/m/n/12 si-ness Pre-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+[]|\OT1/ptm/m/n/12 ILT-SS 6:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+\OT1/ptm/m/n/12 In-ves-tment
+ []
+
+
+Overfull \vbox (35.98894pt too high) detected at line 123
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+[]|\OT1/ptm/m/n/12 ILT-CC 6:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\OT1/ptm/m/n/12 As-so-ci-a-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\OT1/ptm/m/n/12 te Clo-ud
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\OT1/ptm/m/n/12 Engi-ne-er
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\OT1/ptm/m/n/12 Cer-ti-fi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\OT1/ptm/m/n/12 ca-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
+[]|\OT1/ptm/m/n/12 ILT-SS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
+\OT1/ptm/m/n/12 7: Pro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
+\OT1/ptm/m/n/12 fes-sio-nal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
+\OT1/ptm/m/n/12 Com-mu-ni-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+[]|\OT1/ptm/m/n/12 Optional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+\OT1/ptm/m/n/12 Expert
+ []
+
+[6
+
+
+
+
+] [7] [8]
+<./assets/loginhome.png, id=243, 963.6pt x 542.025pt>
+File: ./assets/loginhome.png Graphic file (type png)
+<use ./assets/loginhome.png>
+Package pdftex.def Info: ./assets/loginhome.png  used on input line 161.
+(pdftex.def)             Requested size: 337.26506pt x 189.71158pt.
+<./assets/predictionscreen.png, id=244, 963.6pt x 542.025pt>
+File: ./assets/predictionscreen.png Graphic file (type png)
+<use ./assets/predictionscreen.png>
+Package pdftex.def Info: ./assets/predictionscreen.png  used on input line 166.
+
+(pdftex.def)             Requested size: 337.26506pt x 189.71158pt.
+ [9 <./assets/loginhome.png (PNG copy)> <./assets/predictionscreen.png (PNG cop
+y)>]) [10]
+\openout2 = `./src/bab4.aux'.
+
+ (./src/bab4.tex
+Bab IV.
+) [11
+
+
+
+
+]
+\openout2 = `./src/lampiran.aux'.
+
+ (./src/lampiran.tex
+<./assets/transcript.png, id=266, 794.97pt x 614.295pt>
+File: ./assets/transcript.png Graphic file (type png)
+<use ./assets/transcript.png>
+Package pdftex.def Info: ./assets/transcript.png  used on input line 3.
+(pdftex.def)             Requested size: 397.48402pt x 307.14674pt.
+<./assets/acepreliminary.png, id=267, 1011.78pt x 737.75626pt>
+File: ./assets/acepreliminary.png Graphic file (type png)
+<use ./assets/acepreliminary.png>
+Package pdftex.def Info: ./assets/acepreliminary.png  used on input line 4.
+(pdftex.def)             Requested size: 404.70483pt x 295.09727pt.
+<./assets/coursera.png, id=268, 794.97pt x 614.295pt>
+File: ./assets/coursera.png Graphic file (type png)
+<use ./assets/coursera.png>
+Package pdftex.def Info: ./assets/coursera.png  used on input line 5.
+(pdftex.def)             Requested size: 397.48402pt x 307.14674pt.
+<./assets/dicodingbackend.png, id=269, 845.19765pt x 597.6729pt>
+File: ./assets/dicodingbackend.png Graphic file (type png)
+<use ./assets/dicodingbackend.png>
+Package pdftex.def Info: ./assets/dicodingbackend.png  used on input line 6.
+(pdftex.def)             Requested size: 422.5978pt x 298.83571pt.
+<./assets/dicodingjs.png, id=270, 845.19765pt x 597.6729pt>
+File: ./assets/dicodingjs.png Graphic file (type png)
+<use ./assets/dicodingjs.png>
+Package pdftex.def Info: ./assets/dicodingjs.png  used on input line 7.
+(pdftex.def)             Requested size: 422.5978pt x 298.83571pt.
+<./assets/dicodingweb.png, id=271, 845.19765pt x 597.6729pt>
+File: ./assets/dicodingweb.png Graphic file (type png)
+<use ./assets/dicodingweb.png>
+Package pdftex.def Info: ./assets/dicodingweb.png  used on input line 8.
+(pdftex.def)             Requested size: 422.5978pt x 298.83571pt.
+<./assets/dicodingsoftware.png, id=272, 845.19765pt x 597.6729pt>
+File: ./assets/dicodingsoftware.png Graphic file (type png)
+<use ./assets/dicodingsoftware.png>
+Package pdftex.def Info: ./assets/dicodingsoftware.png  used on input line 9.
+(pdftex.def)             Requested size: 422.5978pt x 298.83571pt.
+
+Overfull \hbox (16.77025pt too wide) in paragraph at lines 3--10
+[][] 
+ []
+
+
+Overfull \hbox (6.36624pt too wide) in paragraph at lines 3--10
+[]
+ []
+
+
+Overfull \hbox (24.2592pt too wide) in paragraph at lines 3--10
+[] 
+ []
+
+
+Overfull \hbox (24.2592pt too wide) in paragraph at lines 3--10
+[] 
+ []
+
+
+Overfull \hbox (24.2592pt too wide) in paragraph at lines 3--10
+[] 
+ []
+
+
+Overfull \hbox (24.2592pt too wide) in paragraph at lines 3--10
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--10
+
+ []
+
+[12
+
+
+
+
+ <./assets/transcript.png> <./assets/acepreliminary.png>] [13 <./assets/courser
+a.png> <./assets/dicodingbackend.png>] [14 <./assets/dicodingjs.png> <./assets/
+dicodingweb.png>] [15 <./assets/dicodingsoftware.png>]
+<./assets/gcsb1.png, id=297, 1920.17375pt x 940.51375pt>
+File: ./assets/gcsb1.png Graphic file (type png)
+<use ./assets/gcsb1.png>
+Package pdftex.def Info: ./assets/gcsb1.png  used on input line 11.
+(pdftex.def)             Requested size: 768.05591pt x 376.19884pt.
+<./assets/gcsb2.png, id=298, 1920.17375pt x 940.51375pt>
+File: ./assets/gcsb2.png Graphic file (type png)
+<use ./assets/gcsb2.png>
+Package pdftex.def Info: ./assets/gcsb2.png  used on input line 12.
+(pdftex.def)             Requested size: 768.05591pt x 376.19884pt.
+<./assets/gcsb3.png, id=299, 1920.17375pt x 940.51375pt>
+File: ./assets/gcsb3.png Graphic file (type png)
+<use ./assets/gcsb3.png>
+Package pdftex.def Info: ./assets/gcsb3.png  used on input line 13.
+(pdftex.def)             Requested size: 768.05591pt x 376.19884pt.
+<./assets/gcsb4.png, id=300, 1920.17375pt x 940.51375pt>
+File: ./assets/gcsb4.png Graphic file (type png)
+<use ./assets/gcsb4.png>
+Package pdftex.def Info: ./assets/gcsb4.png  used on input line 14.
+(pdftex.def)             Requested size: 768.05591pt x 376.19884pt.
+
+Overfull \hbox (111.3504pt too wide) in paragraph at lines 11--15
+[][] 
+ []
+
+
+Overfull \hbox (93.72559pt too wide) in paragraph at lines 11--15
+[] 
+ []
+
+
+Overfull \hbox (93.72559pt too wide) in paragraph at lines 11--15
+[] 
+ []
+
+
+Overfull \hbox (93.72559pt too wide) in paragraph at lines 11--15
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--15
+
+ []
+
+[16
+
+ <./assets/gcsb1.png>] [17 <./assets/gcsb2.png>] [18 <./assets/gcsb3.png>]
+[19 <./assets/gcsb4.png>])
 (/usr/share/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
 Package babel Info: Importing basic data for english
 (babel)             from babel-en.ini. Reported on input line 11.
 )
 (./main.aux (./src/cover.aux) (./src/pengesahan.aux) (./src/orisinalitas.aux)
 (./src/abstrak.aux) (./src/katapengantar.aux) (./src/daftarisi.aux)
-(./src/daftargambar.aux) (./src/daftartabel.aux))
+(./src/daftargambar.aux) (./src/daftartabel.aux) (./src/bab1.aux)
+(./src/bab2.aux) (./src/bab3.aux) (./src/bab4.aux) (./src/lampiran.aux))
 
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: CAC03E3215B51E13A5DDB41AD0F4D8BE;454.
+(rerunfilecheck)             Checksum: 7B773AAB8E55DA93CCCDBE2E136BB101;4127.
 
 Package biblatex Warning: Please rerun LaTeX.
 
@@ -1023,20 +1674,21 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22269 strings out of 478238
- 387501 string characters out of 5850457
- 1118323 words of memory out of 5000000
- 40165 multiletter control sequences out of 15000+600000
- 490056 words of font info for 68 fonts, out of 8000000 for 9000
+ 23040 strings out of 478238
+ 402773 string characters out of 5850456
+ 1175629 words of memory out of 5000000
+ 40784 multiletter control sequences out of 15000+600000
+ 492141 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  65i,8n,71p,1067b,805s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
 ts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb
-i8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (5 pages, 129194 bytes).
+i8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/tex
+mf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (25 pages, 3189261 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 362 PDF objects out of 1000 (max. 8388607)
+ 294 compressed objects within 3 object streams
+ 82 named destinations out of 1000 (max. 500000)
+ 313 words of extra memory for PDF output out of 10000 (max. 10000000)
 
